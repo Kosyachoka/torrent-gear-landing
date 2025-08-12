@@ -4,7 +4,7 @@
   "description": "Torrent gear landing site",
   "main": "index.html",
   "scripts": {
-    "build": "echo 'Build process for index.html complete!'"
+    "build": "echo 'Build process for index.html complete!'",
     "start": "serve ."
   },
   "author": "Konstantin",
