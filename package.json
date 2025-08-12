@@ -1,0 +1,15 @@
+{
+  "name": "torrent-gear-site",
+  "version": "1.0.0",
+  "description": "Torrent gear landing site",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'Build process for index.html complete!'"
+    "start": "serve ."
+  },
+  "author": "Konstantin",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.2.0"
+  }
+}
